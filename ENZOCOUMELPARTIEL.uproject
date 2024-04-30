@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{71D381EA-497E-6DDB-3243-58A0B7266A86}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ENZOCOUMELPARTIEL",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
